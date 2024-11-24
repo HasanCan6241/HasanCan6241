@@ -32,7 +32,7 @@ me.introduce()
 <div align="center">
   
   <!-- Email -->
-  <a href="mailto:hasancan.celik6241@gmail.com">
+  <a href="mailto:hasancan.celik6241@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
@@ -47,7 +47,7 @@ me.introduce()
   </a>
 
   <!-- Portfolio Website-->
-  <a href="[https://your-portfolio.com](http://hasancancelik.com/)" target="_blank">
+  <a href="http://hasancancelik.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
   -->
@@ -57,17 +57,6 @@ me.introduce()
     🌟 Building innovative AI-powered solutions and data-driven projects with expertise in 
     <b>Python, Machine Learning, Deep Learning, Data Analysis</b>, and more.
   </p>
-  
-  <a href="https://github.com/HasanCan6241" target="_blank">
-    <img src="https://img.shields.io/github/followers/HasanCan6241?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="mailto:hasancan.celik6241@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hasan-can-çelik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</div>
 
 ---
 
