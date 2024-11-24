@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     👋 Hello, I'm Hasan Can Çelik
     🚀 Passionate Data Scientist & AI Developer | Innovating with Code
-  
+  </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=HasanCan6241&show_icons=true&theme=radical" alt="Hasan Can's GitHub Stats" width="600" />
   ### 👨‍💻 Hakkımda
 
