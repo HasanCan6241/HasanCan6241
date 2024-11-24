@@ -29,8 +29,8 @@ me.introduce()
   📬 Contact Me
   Feel free to reach out to me via the following platforms:
   
-  <div align="center"> <a href="mailto:hasancan.celik6241@gmail.com"> <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/hasan-can-%C3%A7elik-46950623b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/HasanCan6241" target="_blank"> <img src="https://img.shields.io/github/followers/HasanCan6241?label=Follow&style=social" alt="GitHub Followers" /> </a> </div>
-
+  <div align="center"> <a href="mailto:hasancan.celik6241@gmail.com"> <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/hasan-can-çelik-46950623b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/HasanCan6241" target="_blank"> <img src="https://img.shields.io/github/followers/HasanCan6241?label=Follow&style=social" alt="GitHub Followers" /> </a> </div>
+  
   <p>
     🌟 Building innovative AI-powered solutions and data-driven projects with expertise in 
     <b>Python, Machine Learning, Deep Learning, Data Analysis</b>, and more.
@@ -60,9 +60,7 @@ me.introduce()
 
 
 ## 🌟 My Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,SQL, Pandas, NumPy, Scikit-learn,Keras,Matplotlib, Seaborn, Hugging Face, BeautifulSoup, Django,flask,ChatGPT,bootstrap" alt="Skills" />
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,sql,pandas,numpy,scikit-learn,keras,matplotlib,seaborn,huggingface,beautifulsoup,django,flask,bootstrap" alt="Skills" /> </div>
 
 ---
 
@@ -73,15 +71,8 @@ me.introduce()
 
 ---
 
-<div align="center">
-  <h3>✨ Let's Build Something Amazing Together! ✨</h3>
-  <a href="https://github.com/HasanCan6241">
-    <img src="https://github-profile-trophy.vercel.app/?username=HasanCan6241&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
+<div align="center"> <h3>✨ Let's Build Something Amazing Together! ✨</h3> <a href="https://github.com/HasanCan6241"> <img src="https://github-profile-trophy.vercel.app/?username=HasanCan6241&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </a> </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+explore+my+projects." alt="Typing Animation" />
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+explore+my+projects." alt="Typing Animation" /> </div> 
