@@ -59,8 +59,7 @@ me.introduce()
 
 - 🎓 **Education:** Graduate in Computer Science from Fırat University (GPA: 3.49).
 - 💡 **Specialization:** Machine Learning, Deep Learning, Data Analysis, and Web-based AI Solutions.
-- 💼 **Professional Experience:** Worked on impactful projects in data science and AI for industries like healthcare, recruitment, and education.
-- 🌍 **Languages:** Fluent in Turkish (native) and proficient in English (B1).
+- 💼 **Professional Experience:** He worked on impactful projects in the field of data science and artificial intelligence.
 
 ---
 
