@@ -58,9 +58,12 @@ me.introduce()
 
 ---
 
-
 ## 🌟 My Skills
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,sql,pandas,numpy,scikit-learn,keras,matplotlib,seaborn,huggingface,beautifulsoup,django,flask,bootstrap" alt="Skills" /> </div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sql,pandas,numpy,scikitlearn,matplotlib,seaborn,huggingface,beautifulsoup,django,flask,bootstrap,git,github" alt="Skills" />
+</div>
+
 
 ---
 
