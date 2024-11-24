@@ -32,32 +32,27 @@ me.introduce()
 <div align="center">
   
   <!-- Email -->
-  <a href="mailto:hasancan.celik6241@gmail.com" target="_blank">
+  <a href="mailto:hasancan.celik6241@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/hasan-can-çelik-46950623b" target="_blank">
+  <a href="https://www.linkedin.com/in/hasan-can-çelik-46950623b" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/HasanCan6241" target="_blank">
+  <a href="https://github.com/HasanCan6241" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <!-- Portfolio Website-->
-  <a href="http://hasancancelik.com/" target="_blank">
+  <a href="http://hasancancelik.com/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
-  -->
+
 </div>
   
-  <p>
-    🌟 Building innovative AI-powered solutions and data-driven projects with expertise in 
-    <b>Python, Machine Learning, Deep Learning, Data Analysis</b>, and more.
-  </p>
-
 ---
 
 ## 🛠️ About Me
