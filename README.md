@@ -1,27 +1,37 @@
 <div align="center">
-  <h2 align="center">
+  <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    👋 Hello, I'm Hasan Can Çelik
+    👋 Hello, I'm Hasan Can Çelik  
     🚀 Passionate Data Scientist & AI Developer | Innovating with Code
   </h2>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=HasanCan6241&show_icons=true&theme=radical" alt="Hasan Can's GitHub Stats" width="600" />
-  ### 👨‍💻 Hakkımda
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Hasan Can Çelik"
-        self.role = "Data Scientist & AI Developeri"
-        self.language_spoken = ["tr_TR", "en_US"]
-        self.current_focus = ["Artificial Intelligence", "Data Science"]
+        self.role = "Data Scientist & AI Developer"
+        self.languages = ["Turkish 🇹🇷", "English 🇺🇸"]
+        self.focus_areas = ["Artificial Intelligence", "Data Science"]
         
-    def say_hi(self):
-        print("I aim to make the world a better place by producing data-driven solutions!")
+    def introduce(self):
+        print("Hello! I aim to create innovative, data-driven solutions that make a difference in the world.")
 
 me = DataScientist()
-me.say_hi()
+me.introduce()
+
 ```
+  📬 Contact Me
+  Feel free to reach out to me via the following platforms:
   
+  <div align="center"> <a href="mailto:hasancan.celik6241@gmail.com"> <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/hasan-can-çelik/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/HasanCan6241" target="_blank"> <img src="https://img.shields.io/github/followers/HasanCan6241?label=Follow&style=social" alt="GitHub Followers" /> </a> </div>
+
   <p>
     🌟 Building innovative AI-powered solutions and data-driven projects with expertise in 
     <b>Python, Machine Learning, Deep Learning, Data Analysis</b>, and more.
@@ -49,25 +59,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Key Projects
-Here are some of the projects that I’m most proud of:
-
-### 🧠 [AI-Powered Web Application for Brain Tumor Diagnosis](https://github.com/HasanCan6241/brain-tumor-diagnosis)
-An advanced web-based platform for detecting brain tumors using AI models.  
-**Technologies:** Python, Flask, TensorFlow, SQL, Bootstrap  
-**Highlights:** Enhanced diagnostic accuracy with deep learning algorithms.
-
-### 💼 [AI-Powered Recruitment Platform](https://github.com/HasanCan6241/recruitment-platform)
-A system that evaluates candidates using machine learning, streamlining recruitment processes.  
-**Technologies:** Python, Flask, SQL Server, Machine Learning  
-**Features:** Candidate evaluation, job recommendations, and admin management.
-
-### 🌐 [Plagiarism Detection Website](https://github.com/HasanCan6241/plagiarism-detector)
-Detects AI-generated content and plagiarism with high accuracy.  
-**Technologies:** Python, Bootstrap, NLP Models  
-**Key Goal:** Ensure content originality for academic and professional purposes.
-
----
 
 ## 🌟 My Skills
 <div align="center">
