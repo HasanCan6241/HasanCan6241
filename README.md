@@ -89,8 +89,4 @@ me.introduce()
 
 ---
 
-<div align="center"> <h3>✨ Let's Build Something Amazing Together! ✨</h3> <a href="https://github.com/HasanCan6241"> <img src="https://github-profile-trophy.vercel.app/?username=HasanCan6241&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </a> </div>
-
----
-
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+explore+my+projects." alt="Typing Animation" /> </div> 
