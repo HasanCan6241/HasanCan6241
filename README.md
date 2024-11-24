@@ -26,10 +26,32 @@ me = DataScientist()
 me.introduce()
 
 ```
-  📬 Contact Me
-  Feel free to reach out to me via the following platforms:
+## 📬 Contact Me
+<p align="center">Let's connect! You can reach me through these platforms:</p>
+
+<div align="center">
   
-  <div align="center"> <a href="mailto:hasancan.celik6241@gmail.com"> <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/hasan-can-çelik-46950623b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/HasanCan6241" target="_blank"> <img src="https://img.shields.io/github/followers/HasanCan6241?label=Follow&style=social" alt="GitHub Followers" /> </a> </div>
+  <!-- Email -->
+  <a href="mailto:hasancan.celik6241@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hasan-can-çelik-46950623b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/HasanCan6241" target="_blank">
+    <img src="https://img.shields.io/github/followers/HasanCan6241?logo=github&style=for-the-badge&color=black" alt="GitHub"/>
+  </a>
+
+  <!-- Portfolio Website-->
+  <a href="[https://your-portfolio.com](http://hasancancelik.com/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+  </a>
+  -->
+</div>
   
   <p>
     🌟 Building innovative AI-powered solutions and data-driven projects with expertise in 
