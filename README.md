@@ -43,7 +43,7 @@ me.introduce()
   
   <!-- GitHub -->
   <a href="https://github.com/HasanCan6241" target="_blank">
-    <img src="https://img.shields.io/github/HasanCan6241?logo=github&style=for-the-badge&color=black" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <!-- Portfolio Website-->
